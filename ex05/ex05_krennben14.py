@@ -37,7 +37,7 @@ urls = ['http://myserver.com/flower.gif',
         'afp://www.flowerpower.tv/green.gif',
         'ftps://ftp.fake.org/img/logo.gif',
         'http://www2.fake.org/images/small/grass.svg',
-        'https://fake.org/thumbs/logo.jpg]'
+        'https://fake.org/thumbs/logo.jpg'
         ]
 
 threads = []
